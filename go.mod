@@ -1,4 +1,4 @@
-module github.com/gorgonia/bindgen
+module github.com/spywiree/bindgen
 
 go 1.15
 
